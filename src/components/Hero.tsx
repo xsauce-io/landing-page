@@ -178,7 +178,6 @@ export const Hero = ({ title }: { title: string }) => {
 				>
 					{/*HeroImage */}
 					<HeroImage/>
-				
 
 					
 				</Flex>
